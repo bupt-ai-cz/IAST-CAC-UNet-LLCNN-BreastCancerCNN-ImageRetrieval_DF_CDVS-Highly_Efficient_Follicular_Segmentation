@@ -9,3 +9,5 @@ This repo. provides a list of implementations (including codes or dataset) for o
 ### [LLCNN: A convolutional neural network for low-light image enhancement (VCIP)](https://github.com/bupt-ai-cz/LLCNN)
 
 ### [BreastCancerCNN: Breast cancer histopathology image classification through assembling multiple compact CNNs (BMC)](https://github.com/bupt-ai-cz/BreastCancerCNN)
+
+### [ImageRetrieval_DF_CDVS: Feature Fusion for Image Retrieval with Adaptive Bitrate Allocation and Hard Negative Mining](https://github.com/bupt-ai-cz/ImageRetrieval_DF_CDVS)
