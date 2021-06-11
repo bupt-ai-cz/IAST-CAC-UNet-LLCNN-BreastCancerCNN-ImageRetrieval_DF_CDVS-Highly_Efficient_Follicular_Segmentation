@@ -4,10 +4,16 @@ This repo. provides a list of implementations (including codes or dataset) for o
 
 ### [IAST: Instance Adaptive Self-training for Unsupervised Domain Adaptation (ECCV 2020)](https://github.com/bupt-ai-cz/IAST)
 
-### [CAC-UNet: Multi-level-colonoscopy-malignant-tissue-detection-with-adversarial-CAC-UNet (Neurocomputing)](https://github.com/bupt-ai-cz/CAC-UNet)
+### [CAC-UNet: Multi-level-colonoscopy-malignant-tissue-detection-with-adversarial-CAC-UNet (Neurocomputing 2021)](https://github.com/bupt-ai-cz/CAC-UNet)
 
-### [LLCNN: A convolutional neural network for low-light image enhancement (VCIP)](https://github.com/bupt-ai-cz/LLCNN)
+### [LLCNN: A convolutional neural network for low-light image enhancement (VCIP 2017)](https://github.com/bupt-ai-cz/LLCNN)
 
-### [BreastCancerCNN: Breast cancer histopathology image classification through assembling multiple compact CNNs (BMC)](https://github.com/bupt-ai-cz/BreastCancerCNN)
+### [BreastCancerCNN: Breast cancer histopathology image classification through assembling multiple compact CNNs (BMC 2019)](https://github.com/bupt-ai-cz/BreastCancerCNN)
 
 ### [ImageRetrieval_DF_CDVS: Feature Fusion for Image Retrieval with Adaptive Bitrate Allocation and Hard Negative Mining](https://github.com/bupt-ai-cz/ImageRetrieval_DF_CDVS)
+
+### [Hybrid Model Enabling Highly Efficient Follicular Segmentation (Intelligent Medicine 2021)](https://github.com/bupt-ai-cz/Hybrid-Model-Enabling-Highly-Efficient-Follicular-Segmentation)
+
+### [Breast Cancer Image Classification On WSI With Spatial Correlations (ICASSP 2019)](https://github.com/bupt-ai-cz/Breast-Cancer-Image-Classification-On-WSI-With-Spatial-Correlations)
+
+### [A Channel-level Pruning Strategy for Convolutional Neural Networks](https://github.com/bupt-ai-cz/A-Channel-level-Pruning-Strategy-for-Convolutional-Neural-Networks)
